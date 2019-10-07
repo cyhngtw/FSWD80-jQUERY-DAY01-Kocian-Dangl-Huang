@@ -1,0 +1,55 @@
+
+{
+
+   "grocery": [{
+
+       "name": "milk",
+       "qty": "5",
+       "price": "1.6",
+       "image": "milk.jpg"
+
+   }, {
+	   "name": "Lemon",
+       "qty": "6",
+       "price": "0.5",
+       "image": "lemon.jpg"
+
+   }, {
+	   "name": "orange juice",
+       "qty": "20",
+       "price": "1,99",
+       "image": "orange.jpg"
+
+   },{
+	   "name": "french cheese",
+       "qty": "3",
+       "price": "1.65",
+       "image": "fr.jpg"
+
+   },{
+	   "name": "salami",
+       "qty": "4",
+       "price": "3.99",
+       "image": "salami.jpg"
+
+   },{
+	   "name": "banana",
+       "qty": "30",
+       "price": "2.25",
+       "image": "banana.jpg"
+
+   },{
+	   "name": "chocolate",
+       "qty": "23",
+       "price": "1",
+       "image": "chocolate.jpg"
+
+   }
+
+
+
+
+
+]
+
+}
